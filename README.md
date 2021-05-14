@@ -104,7 +104,17 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 4. As palavras sao repetidas em ordens aleatorias
 5. Quem erra os comandos sai da brincadeira ate restar 1
 
-1. Faça um algoritmo que some três números.
-2. Faça um algoritmo que descubra se um número é par ou ímpar.
-3. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
-4. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+*Faça um algoritmo que some três números.
+
+1. Pegue a calculadora
+2. Insira um numero
+3. Aperte o sinal de mais
+4. Insira o proximo numero
+5. Aperte o sinal de mais
+6. Insira o terceiro numero
+7. Aperte o sinal de igual
+8. E veja o resultado
+
+1. Faça um algoritmo que descubra se um número é par ou ímpar.
+2. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+3. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
