@@ -77,6 +77,14 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
   11. Retire o comprovante do caixa eletronico
 
 1. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+   1. Primeiro pega a pilha nao corrigida
+   2. Pega a caneta vermelha
+   3. Pega uma prova 
+   4. Começa a corrigir
+   5. Confere as 5 questoes
+   6. Da a nota
+   7. Começa a formar uma nova pilha para as provas corrigidas
+   8. E repete o processo ate terminar a pilha nao corrigida
 2. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 3. Faça um algoritmo que some três números.
 4. Faça um algoritmo que descubra se um número é par ou ímpar.
