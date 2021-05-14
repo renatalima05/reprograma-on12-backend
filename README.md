@@ -122,5 +122,16 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 3. Caso o resto seja 0, esse numero é par
 4. Se caso o resto for diferente de zero, o numero é impar
 
-1. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
-2. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+*Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+
+1. Pego a primeira nota
+2. Pego a segunda nota
+3. Somo as duas notas
+4. Pego o resultado da soma
+5. Divido o resultado por dois
+6. Se for maior ou igual a 6, o aluno está aprovado
+7. Caso seja menor que 5.9, o aluno está reprovado
+
+
+
+*Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
