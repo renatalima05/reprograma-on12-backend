@@ -76,17 +76,35 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
   10. Confirma
   11. Retire o comprovante do caixa eletronico
 
-1. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
-   1. Primeiro pega a pilha nao corrigida
-   2. Pega a caneta vermelha
-   3. Pega uma prova 
-   4. Começa a corrigir
-   5. Confere as 5 questoes
-   6. Da a nota
-   7. Começa a formar uma nova pilha para as provas corrigidas
-   8. E repete o processo ate terminar a pilha nao corrigida
-2. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
-3. Faça um algoritmo que some três números.
-4. Faça um algoritmo que descubra se um número é par ou ímpar.
-5. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
-6. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+*Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+
+1. Primeiro pega a pilha nao corrigida
+
+2. Pega a caneta vermelha
+
+3. Pega uma prova 
+
+4. Começa a corrigir
+
+5. Confere as 5 questoes
+
+6. Da a nota
+
+7. Começa a formar uma nova pilha para as provas corrigidas
+
+8. E repete o processo ate terminar a pilha nao corrigida
+
+   
+
+   *Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+
+1. Um adulto da os comandos
+2. Vivo as crianças ficam em pe
+3. Morto as crianças se abaixam
+4. As palavras sao repetidas em ordens aleatorias
+5. Quem erra os comandos sai da brincadeira ate restar 1
+
+1. Faça um algoritmo que some três números.
+2. Faça um algoritmo que descubra se um número é par ou ímpar.
+3. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+4. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
