@@ -115,6 +115,12 @@ _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando e
 7. Aperte o sinal de igual
 8. E veja o resultado
 
-1. Faça um algoritmo que descubra se um número é par ou ímpar.
-2. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
-3. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+*Faça um algoritmo que descubra se um número é par ou ímpar.
+
+1. Escolha um numero 
+2. Divida por 2
+3. Caso o resto seja 0, esse numero é par
+4. Se caso o resto for diferente de zero, o numero é impar
+
+1. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+2. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
